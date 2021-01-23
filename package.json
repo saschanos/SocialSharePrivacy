@@ -1,0 +1,10 @@
+{
+  "name": "social-share-privacy",
+  "version": "1.0.0",
+  "description": "Social Share Privacy",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
